@@ -1,0 +1,10 @@
+package main
+
+import "fmt"
+
+func main(){
+	
+	conts a := 32
+	fmt.Println(a)
+	a := 31
+}
