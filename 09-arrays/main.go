@@ -1,3 +1,4 @@
+cd ..
 package main
 import "fmt"
 
